@@ -97,11 +97,14 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 
+
+
 ## Demo
 
 Here’s how the contribution process looks visually:
 
-![First Contributions Demo](https://raw.githubusercontent.com/firstcontributions/first-contributions/main/assets/demo.png)
+![Contribution Workflow Demo](https://raw.githubusercontent.com/firstcontributions/first-contributions/main/assets/fork.png)
+
 
 
 ## Fork this repository
