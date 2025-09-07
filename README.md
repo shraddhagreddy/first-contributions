@@ -98,15 +98,6 @@ _If you're not comfortable with command line, [here are tutorials using GUI tool
 
 
 
-
-## Demo
-
-Here’s how the contribution process looks visually:
-
-![Contribution Workflow Demo](https://raw.githubusercontent.com/firstcontributions/first-contributions/main/assets/fork.png)
-
-
-
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
